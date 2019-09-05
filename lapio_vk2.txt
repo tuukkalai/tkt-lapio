@@ -1,4 +1,4 @@
 Rivi MUUTOS
 rivi2
 rivi3
-Terveisiä koneelta
+Terveisiä koneelta ja GitHubista
